@@ -15,7 +15,7 @@ This project focuses on the spatial analysis and calculation of rooftop surface 
 
 ### 📄 Technical Report (PDF)
 You can read the comprehensive analysis, methodology, and conclusions of the study in the official PDF report:
-👉 <a href="./Use of Renewable Energy Sources.pdf">Διαβάστε την πλήρη τεχνική έκθεση σε PDF εδώ</a>
+👉 <a href="./Use of Renewable Energy Sources.pdf">Read Technical Report Here</a>
 
 ---
 
